@@ -2,7 +2,7 @@
   "name": "genai-practical-js",
   "version": "1.0.0",
   "description": "GenAI Practical Application Development using JavaScript",
-  "main": "index.js",
+  "main": "index.tsx",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -18,5 +18,12 @@
   "bugs": {
     "url": "https://github.com/ymazhar/GenAI-Practical-JS/issues"
   },
-  "homepage": "https://github.com/ymazhar/GenAI-Practical-JS#readme"
+  "homepage": "https://github.com/ymazhar/GenAI-Practical-JS#readme",
+  "dependencies": {
+    "openai": "5.9.0"
+  },
+  "devDependencies": {
+    "@types/node": "^24.0.13",
+    "typescript": "^5.8.3"
+  }
 }
