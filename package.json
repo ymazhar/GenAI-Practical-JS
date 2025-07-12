@@ -1,0 +1,22 @@
+{
+  "name": "genai-practical-js",
+  "version": "1.0.0",
+  "description": "GenAI Practical Application Development using JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ymazhar/GenAI-Practical-JS.git"
+  },
+  "keywords": [
+    "openai"
+  ],
+  "author": "Yaroslav Mazhar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ymazhar/GenAI-Practical-JS/issues"
+  },
+  "homepage": "https://github.com/ymazhar/GenAI-Practical-JS#readme"
+}
